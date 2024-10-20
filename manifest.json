@@ -1,27 +1,27 @@
 {
   "name": "EpicGamesIPA Source",
   "subtitle": "Source for EpicGamesIPA",
-  "description": "This source provides the EpicGamesIPA app.",
-  "iconURL": "https://example.com/source_icon.png",
+  "description": "This source provides the Fortnite IPA.",
+  "iconURL": "https://raw.githubusercontent.com/csdamien/EpicGamesIPA/main/IMG_0076.png",
   "headerURL": "https://example.com/source_header.png",
   "website": "https://github.com/ichitaso/EpicGamesIPA",
   "tintColor": "#F54F32",
   "featuredApps": [
-    "com.ichitaso.epicgamesipa"
+    "com.epicgames.FortniteGame"
   ],
   "apps": [
     {
-      "name": "EpicGamesIPA",
-      "bundleIdentifier": "com.ichitaso.epicgamesipa",
-      "developerName": "ichitaso",
-      "version": "1.0",
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "EpicGames",
+      "version": "31.40.1",
       "beta": false,
-      "iconURL": "https://example.com/app_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/csdamien/EpicGamesIPA/main/IMG_0076.png",
       "tintColor": "#F54F32",
       "size": 12345678,
-      "downloadURL": "https://example.com/download/EpicGamesIPA.ipa",
+      "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.5/Fortnite-31.40.1.ipa",
       "localizedDescription": {
-        "en": "Play Epic Games on your iOS device."
+        "en": "Play Fortnite on your iOS device."
       },
       "screenshotURLs": [
         "https://example.com/screenshot1.png",
