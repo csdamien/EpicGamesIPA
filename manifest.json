@@ -1,0 +1,9 @@
+{
+  "app": {
+    "title": "Epic Games",
+    "bundleId": "com.ichitaso.epicgames",
+    "version": "1.0",  // Remplace par la version correcte
+    "icon": "URL_de_l_icone",  // Remplace par l'URL de l'icône, si disponible
+    "downloadURL": "https://github.com/ichitaso/EpicGamesIPA/releases/download/v1.0.5/Fortnite-31.40.1.ipa"
+  }
+}
